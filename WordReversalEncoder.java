@@ -1,5 +1,4 @@
 package main.java.StringOperations.assignment_problem;
-
 import java.util.*;
 
 public class WordReversalEncoder {
